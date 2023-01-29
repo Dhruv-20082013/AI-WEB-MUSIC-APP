@@ -20,9 +20,6 @@ body
 
 canvas
 {
-    box-shadow: black 2px;
-    margin: 50px;
-    padding: 10px;
-    border: 5px;
-    border-radius: 5px solid black;
+    border: 5px solid white;
+    border-radius: 20px;
 }
